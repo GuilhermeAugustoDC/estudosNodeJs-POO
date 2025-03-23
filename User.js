@@ -74,15 +74,15 @@ export default class User {
 //* Teste de criar um usuario.
 //! Modifique os DADOS para testar.
 
-await User.criarUsuario(
-  "Guilherme Dias - TESTE",
-  "guiemail121@gmail.com",
-  "15-12-2009",
-  "Programador",
-  true,
-  4
-);
-console.log(`\nUsuario criado com sucesso\n`);
+// await User.criarUsuario(
+//   "Guilherme Dias - TESTE",
+//   "guiemail121@gmail.com",
+//   "15-12-2009",
+//   "Programador",
+//   true,
+//   4
+// );
+// console.log(`\nUsuario criado com sucesso\n`);
 
 //* Teste de listar todos os usuarios.
 
