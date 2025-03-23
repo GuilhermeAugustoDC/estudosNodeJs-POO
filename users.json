@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "nome": "Guilherme Dias",
+    "email": "guiemail121@gmail.com",
+    "nascimento": "15-12-2009",
+    "role": "Programador",
+    "ativo": true,
+    "id": 1
+  }
+]
